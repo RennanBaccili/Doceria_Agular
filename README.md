@@ -1,27 +1,27 @@
-# Doceria
+# Site da Doceria Angular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.3.
+Bem-vindo ao site da Doceria Angular, um exemplo de projeto criado para demonstrar minhas habilidades de desenvolvimento web usando Angular.
 
-## Development server
+## Visão Geral
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Este projeto é uma demonstração de um site de doceria fictício, criado com o Angular. Ele inclui diversos componentes para mostrar como a tecnologia pode ser usada para criar uma experiência de usuário atraente e funcional.
 
-## Code scaffolding
+## Tecnologias Utilizadas
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- Angular
+- HTML5
+- CSS3
+- JavaScript/TypeScript
 
-## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## Funcionalidades Principais
 
-## Running unit tests
+- **Página Inicial:** Apresentação da doceria, imagens de produtos e informações sobre os serviços oferecidos.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+- **Sobre:** Uma lista de inforamações sobre a doceria.
 
-## Running end-to-end tests
+- **Galeria de Fotos:** Uma galeria de imagens de produtos, eventos e momentos especiais da doceria.
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+- **Contato:** Formulário de contato para perguntas e pedidos.
 
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Link do projeto:https://doceria-exemplo.netlify.app/
