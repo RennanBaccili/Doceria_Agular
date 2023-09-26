@@ -1,0 +1,42 @@
+@media screen and (max-width:600px){
+
+  h2{
+    color: #006599;
+    font-size: 5.8vh;
+    margin:2vh;
+  }
+
+  .banner-galleria{
+    background-position: center;
+    background-repeat: cover;
+    display: inline-block;
+    flex-wrap: wrap;
+    height: 20vh;
+  }
+  #sessao-doce1, #sessao-doce2, #sessao-doce3{
+    padding-right: 0vh;
+    margin-bottom: 0vh;
+  }
+
+  .doces1-imgs{
+    width:18.8%;
+    margin-left: .5%;
+    margin-right: .5%;
+  }
+
+
+  .doces2-imgs{
+    width:32%;
+    margin-left: .5%;
+    margin-right: .5%;
+  }
+
+  .doces3-imgs{
+    width:24%;
+    margin-left: .5%;
+    margin-right: .5%;
+  }
+
+
+
+}

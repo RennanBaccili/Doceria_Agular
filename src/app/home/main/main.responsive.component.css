@@ -1,0 +1,37 @@
+@media screen and (max-width:1000px){
+
+.sessao-bemvindo-content h1{
+  color: #006599;
+  font-size: 5vh;
+  margin:2vh;
+}
+.sessao-descricao p{
+  font-size: 2vh;
+  margin: 0.9vh;
+  flex-wrap: wrap;
+}
+.sessao-minibanner{
+  height: 50vh;
+  background-image: url("../../../assets/img/banner3.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  float: left;
+  width: 40%;
+  margin-right: 2vh;
+  flex-wrap: wrap;
+}
+
+.btn-main{
+  background-color: #006599;
+  padding: 1vh;
+}
+.btn-main a{
+  color: white;
+  text-decoration: none;
+  font-size: 2vh;
+}
+
+}
+
+

@@ -1,0 +1,47 @@
+.sessao-content h1{
+  font-size: 5.8vh;
+  color: #006599;
+  margin: 3vh;
+}
+
+.sessao-minibanner{
+  height: 40vh;
+  background-image: url("../../../assets/img/banner4.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  float: right;
+  width: 30%;
+  margin-right: 2vh;
+}
+
+.sessao-descricao{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  flex-direction: center;
+}
+
+
+.sessao-descricao p {
+  font-size: 2vh;
+  margin: 3vh;
+
+}
+.btn-main{
+  background-color: #006599;
+  padding: 2vh;
+  cursor: pointer;
+}
+
+.btn-main:hover{
+  background-color: #00486c;
+
+}
+
+.btn-main a{
+  color: white;
+  text-decoration: none;
+  font-size: 2vh;
+}
+

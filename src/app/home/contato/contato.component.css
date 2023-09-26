@@ -1,0 +1,32 @@
+ h2{
+  color: #006599;
+  font-size: 4.8vh;
+  margin: 2vh;
+}
+
+.sessao{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#form-contato{
+  width: 40vh;
+}
+
+#form-contato input, #form-contato input, #form-contato textarea{
+  display: flex;
+  border: 0.2vh solid #006599;
+  padding: 1vh;
+  margin-bottom: 20px;
+  width: 100%;
+  font-size: 2vh;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+.envio:hover{
+  color: #006599;
+  border: 0.2vh solid #006599;
+}
+

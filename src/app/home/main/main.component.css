@@ -1,0 +1,58 @@
+.container{
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  width: 100%;
+  padding-left: 0;
+}
+
+.container .banner{
+  height:30vh;
+  width: 100%;
+  background-image: url("../../../assets/img/banner2.jpg");
+  background-repeat: no-repeat;
+}
+
+.sessao-descricao{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+
+.sessao-bemvindo-content h1{
+  color: #006599;
+  font-size: 5.8vh;
+  margin:2vh;
+}
+.sessao-descricao p{
+  font-size: 2vh;
+  margin: 3vh;
+}
+.sessao-minibanner{
+  height: 40vh;
+  background-image: url("../../../assets/img/banner3.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  float: left;
+  width: 40%;
+  margin-right: 2vh;
+}
+
+.btn-main{
+  background-color: #006599;
+  padding: 2vh;
+  cursor: pointer;
+}
+
+.btn-main:hover{
+  background-color: #00486c;
+
+}
+
+.btn-main a{
+  color: white;
+  text-decoration: none;
+  font-size: 2vh;
+}

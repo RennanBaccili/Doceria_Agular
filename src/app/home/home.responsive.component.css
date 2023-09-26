@@ -1,0 +1,10 @@
+@media screen and (max-width:1000px){
+  .main-content{
+    position: absolute;
+    left: 0vh;
+    width: 100%;
+    max-width: 1500px;
+  }
+}
+
+

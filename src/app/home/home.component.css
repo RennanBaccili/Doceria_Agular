@@ -1,0 +1,10 @@
+.content{
+  display: flex;
+
+}
+.main-content{
+  position: absolute;
+  left: 37vh;
+  width: calc(100% - 400px);
+  max-width: 1500px;
+}
